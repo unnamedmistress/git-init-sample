@@ -1,0 +1,40 @@
+*{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+Body{
+    background-color: aquamarine;
+}
+header{
+    background-image: url("/20180704_200647.jpg");
+    background-size: cover;
+    height:250px;
+    width:auto;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:initial;
+    display:block;
+    border:4px solid;
+
+}
+section{
+    padding-top: 5%;
+    text-align: center;
+
+}
+
+li{
+    display:inline-block;
+    left: 2%;
+    color: aqua;
+}
+input{
+    background-color: crimson;
+}
+h2{
+    display:inline-block;
+    align-content: center;
+}
+Footer{
+    font-size:smaller;
+}
